@@ -13,7 +13,7 @@ export default class ConversationsFetcher {
         this._headers = {
             cookie,
             'x-pm-apiversion': '1',
-            'x-pm-appversion': 'Web_3.11.7',
+            'x-pm-appversion': 'Web_3.13.7',
             'x-pm-session': sessionId
         }
         this._privateKey = privateKey;
